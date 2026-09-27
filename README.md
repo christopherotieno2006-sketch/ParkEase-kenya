@@ -26,7 +26,7 @@ python app.py
 ```
 Open `http://127.0.0.1:5000`.
 
-Seeded administrator: `admin@parkease.co.ke` / `Admin123!`
+Seeded administrator: `admin@parkease.co.ke` / Christopher.admin@MMU
 
 ## GitHub
 ```bash
